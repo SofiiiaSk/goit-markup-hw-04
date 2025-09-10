@@ -298,6 +298,9 @@ a {
 }
 .team-container {
   padding: 32px 0;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 
 .team-text {
@@ -326,6 +329,7 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
 .fourth-section {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -386,9 +390,7 @@ a {
   display: flex;
   align-items: baseline;
 }
-.social-container {
-  margin-right: 120px;
-}
+
 .title-media {
   font-weight: 500;
   font-size: 16px;
