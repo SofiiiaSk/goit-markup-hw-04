@@ -390,6 +390,9 @@ a {
   display: flex;
   align-items: baseline;
 }
+.social-container {
+  margin-right: 120px;
+}
 
 .title-media {
   font-weight: 500;
