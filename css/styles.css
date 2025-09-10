@@ -327,6 +327,32 @@ a {
 .inst-link:focus {
   background-color: #404bbf;
 }
+.twitt {
+  width: 100%;
+  height: 100%;
+}
+
+.twitt-link:hover,
+.twitt-link:focus {
+  background-color: #404bbf;
+}
+.fcbk {
+  width: 100%;
+  height: 100%;
+}
+.fcbk-link:hover,
+.fcbk-link:focus {
+  background-color: #404bbf;
+}
+
+.linkedin {
+  width: 100%;
+  height: 100%;
+}
+.linkedin-link:hover,
+.linkedin-link:focus {
+  background-color: #404bbf;
+}
 
 .paragraf-sec {
   text-align: center;
