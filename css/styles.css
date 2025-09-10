@@ -385,6 +385,9 @@ a {
   display: inline-block;
   margin-bottom: 16px;
 }
+.foot-cont {
+  display: flex;
+}
 .footer-container {
   margin-right: 120px;
 }
