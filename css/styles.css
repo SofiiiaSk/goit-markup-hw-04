@@ -389,7 +389,8 @@ a {
   display: flex;
   align-items: baseline;
 }
-.logop-container {
+
+.container .logop-container {
   margin-right: 120px;
 }
 .title-media {
