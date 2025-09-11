@@ -413,15 +413,15 @@ a {
 .page-footer {
   padding: 100px 0;
   background-color: #2e2f42;
+}
+.all-content {
   display: flex;
   align-items: baseline;
 }
-.paragraf-footer {
-  max-width: 264px;
-  line-height: 1.5;
-  color: #f4f4fd;
-  letter-spacing: 0.02em;
+.logop-container {
+  margin-right: 120px;
 }
+
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
@@ -429,9 +429,11 @@ a {
   display: inline-block;
   margin-bottom: 16px;
 }
-
-.logop-container {
-  margin-right: 120px;
+.paragraf-footer {
+  max-width: 264px;
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
 .title-media {
   font-weight: 500;
