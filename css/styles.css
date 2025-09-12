@@ -300,7 +300,6 @@ a {
 }
 .team-container {
   padding: 32px 0;
-  display: flex;
   justify-content: center;
   gap: 24px;
 }
@@ -321,6 +320,7 @@ a {
 }
 
 .paragraf-sec {
+  margin-bottom: 8px;
   text-align: center;
   font-weight: 400;
   font-size: 16px;
@@ -341,7 +341,7 @@ a {
   width: 40px;
   height: 40px;
 }
-.network-link {
+.networkis-link {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
@@ -351,9 +351,9 @@ a {
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.network-link:hover,
-.network-link:focus {
-  background-color: #31d0aa;
+.networkis-link:hover,
+.networkis-link:focus {
+  background-color: #404bbf;
 }
 .svgimages {
   fill: #f4f4fd;
@@ -375,7 +375,10 @@ a {
 .apps-list {
   width: calc((100% - 48px) / 3);
 }
-
+.apps-list:hover {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
 .fourth-apps {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
