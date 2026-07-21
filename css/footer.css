@@ -6,9 +6,10 @@
 .all-content {
   display: flex;
   align-items: flex-start;
-  gap: 120px;
 }
-
+.logop-container {
+  margin-right: 120px;
+}
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
