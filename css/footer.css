@@ -5,12 +5,8 @@
 
 .all-content {
   display: flex;
-  margin-left: 120px;
-  align-items: baseline;
-}
-
-.logop-container {
-  margin-right: 120px;
+  align-items: flex-start;
+  gap: 120px;
 }
 
 .footer-logo {
